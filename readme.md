@@ -1,6 +1,8 @@
 #Holofied CM11 Theme
 
-Holofied is a simple CM11 theme that replaces some subtle interface changes with the original Google assets.
+[![Get it on Google Play](https://developer.android.com/images/brand/en_generic_rgb_wo_60.png)](https://play.google.com/store/apps/details?id=com.nadeemsultan.holofiedcm11theme)
+
+Holofied is a simple CM11 theme that replaces some subtle interface changes made by rom developers with the original AOSP assets.
 
 ###Items Themed:
 * SystemUI (Wifi indicator, ADB icon)
