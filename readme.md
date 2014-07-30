@@ -6,10 +6,12 @@ Holofied is a simple CM11 theme that replaces some subtle interface changes made
 
 ###Items Themed:
 * SystemUI (Wifi indicator, Mobile Data indicator, ADB icon)
+* Framework
 * Boot Animation
 * Wallpaper
 
 ###Changelog
+* **1.5** : Bring back Holo Blue
 * **1.4** : Hide mobile data indicators
 * **1.3.1** : Added xxhdpi resources
 * **1.3** : Added Stock 4.4 Wallpaper
