@@ -10,6 +10,7 @@ Holofied is a simple CM11/CM12 theme that replaces some subtle interface changes
 * Wallpaper
 
 ###Changelog
+* **2.0.1** : Fix asset dimensions
 * **2.0** : Updated for CM12/Lollipop (This version is no longer compatible with CM11. Please refer to the master branch for the CM11 version)
 * **1.5.1** : More Holo Blue
 * **1.5** : Bring back Holo Blue
