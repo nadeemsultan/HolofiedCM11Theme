@@ -10,6 +10,7 @@ Holofied is a simple CM11/CM12 theme that replaces some subtle interface changes
 * Wallpaper
 
 ###Changelog
+* **2.1** : Change Wifi status bar icon back to original size ([Reverts this commit](https://github.com/CyanogenMod/android_frameworks_base/commit/2c109e4d780f60727fd5707a3e511b0628c65028))
 * **2.0.1** : Fix asset dimensions
 * **2.0** : Updated for CM12/Lollipop (This version is no longer compatible with CM11. Please refer to the master branch for the CM11 version)
 * **1.5.1** : More Holo Blue
